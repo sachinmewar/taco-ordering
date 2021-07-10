@@ -1,4 +1,4 @@
-package sachin.tacocloud.tacocloud.taco;
+package sachin.tacocloud.tacocloud;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
